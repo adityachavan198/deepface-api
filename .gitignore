@@ -9,6 +9,7 @@ Pipfile.lock
 .mypy_cache/
 .vscode/
 .idea/
+env/*
 deepface.egg-info/
 deepface/__pycache__/*
 deepface/commons/__pycache__/*
